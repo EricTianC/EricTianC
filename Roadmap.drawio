@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-04T15:13:26.924Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="vy0xUtww5rJRMcFTOCUU" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-04T15:19:21.287Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="gk1GoIWgK0kj4cBbyjZo" version="21.3.7" type="github">
   <diagram name="Roadmap" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1444" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -89,6 +89,12 @@
         </mxCell>
         <mxCell id="NTD_w7OnmmbaVp7g4xW4-47" value="应用物理" style="swimlane;startSize=20;html=1;" vertex="1" parent="NTD_w7OnmmbaVp7g4xW4-45">
           <mxGeometry x="150" width="130" height="910" as="geometry" />
+        </mxCell>
+        <mxCell id="NTD_w7OnmmbaVp7g4xW4-61" value="模拟电路" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NTD_w7OnmmbaVp7g4xW4-47">
+          <mxGeometry x="10" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NTD_w7OnmmbaVp7g4xW4-62" value="数字电路" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NTD_w7OnmmbaVp7g4xW4-47">
+          <mxGeometry x="10" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NTD_w7OnmmbaVp7g4xW4-20" value="计算" style="swimlane;startSize=20;html=1;" vertex="1" parent="NTD_w7OnmmbaVp7g4xW4-17">
           <mxGeometry x="690" y="20" width="420" height="930" as="geometry" />
